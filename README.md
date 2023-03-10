@@ -1,2 +1,2 @@
-# clinic
+# Clinic
 clinic appointments online
